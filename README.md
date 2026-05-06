@@ -16,5 +16,5 @@
 🔹 Projetos acadêmicos  
 
 ## 📫 Contato
-- LinkedIn: (seu link aqui)
-- Email: (seu email)
+- LinkedIn: www.linkedin.com/in/ana-clara-peressim-738775345
+- Email: anaperessim@gmail.com
