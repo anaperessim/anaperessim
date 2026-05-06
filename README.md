@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Ana!
 
-<!--
-**anaperessim/anaperessim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software  
+🚀 Focada em desenvolvimento web com Python  
+📍 Brasil  
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias
+- Python
+- Flask
+- HTML, CSS
+- SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+🔹 Sistema de Chamados (Flask)  
+🔹 Aplicativo de Reservas  
+🔹 Projetos acadêmicos  
+
+## 📫 Contato
+- LinkedIn: (seu link aqui)
+- Email: (seu email)
