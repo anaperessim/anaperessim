@@ -19,9 +19,9 @@ Meu objetivo é evoluir como desenvolvedora, ganhar experiência profissional e 
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Desenvolvimento
+### 💻 Linguagens & Desenvolvimento
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -34,20 +34,21 @@ Meu objetivo é evoluir como desenvolvedora, ganhar experiência profissional e 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔧 Ferramentas
+### 🔧 Versionamento & Ambiente
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em Destaque
 
 ### 🎬 Análise de Filmes e Séries
 
-Projeto desenvolvido para praticar **SQL e consultas em banco de dados**.
+Projeto desenvolvido para explorar **consultas SQL e análise de dados** em um banco de dados de filmes e séries.
 
-O projeto permite realizar consultas, filtros e ordenações sobre filmes e séries, explorando diferentes possibilidades de análise dos dados.
+O projeto utiliza consultas, filtros e ordenações para obter diferentes informações a partir dos dados.
 
 **Tecnologias:** SQL • MySQL
 
@@ -57,9 +58,7 @@ O projeto permite realizar consultas, filtros e ordenações sobre filmes e sér
 
 ### 🎫 Sistema de Chamados Web
 
-Sistema web desenvolvido para praticar conceitos de desenvolvimento utilizando **Python e Flask**.
-
-O projeto permite trabalhar com desenvolvimento back-end, integração com páginas web e organização de informações.
+Sistema web desenvolvido com **Python e Flask** para trabalhar conceitos de desenvolvimento back-end e integração com uma interface web.
 
 **Tecnologias:** Python • Flask • HTML • CSS
 
@@ -67,7 +66,7 @@ O projeto permite trabalhar com desenvolvimento back-end, integração com pági
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Atualmente Estudando
 
 - 🐍 Python
 - 🌐 Desenvolvimento Web
