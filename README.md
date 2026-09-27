@@ -3,7 +3,7 @@
 🎓 Estudante de **Engenharia de Software**  
 💻 Desenvolvedora em formação  
 🐍 Interesse em **desenvolvimento web e back-end**  
-📍 Brasil
+📍 Brasil | 💼 Aberta a oportunidades em Tecnologia
 
 ---
 
