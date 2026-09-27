@@ -90,9 +90,9 @@ O projeto permite trabalhar com desenvolvimento back-end, integração com pági
 
 ## 📫 Entre em contato
 
-💼 **LinkedIn:** [Ana Clara Peressim](SEU_LINK_DO_LINKEDIN)
+💼 **LinkedIn:** [Ana Clara Peressim](https://www.linkedin.com/in/ana-clara-peressim-738775345/)
 
-📧 **E-mail:** [anaperessim@gmail.com](mailto:anaperessim@gmail.com)
+📧 **E-mail:** [anaperessimm@gmail.com](mailto:anaperessimm@gmail.com)
 
 ---
 
